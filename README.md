@@ -2,6 +2,9 @@
 Name: Neelesh Palaparthi
 
 palaparn_hw1:
+# Functions used in the program:
+string compare- strcmp
+string concatenaion- strncat
 
 To compile and run the project use this commands:
 
